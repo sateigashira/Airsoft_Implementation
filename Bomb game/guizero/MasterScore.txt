@@ -1,0 +1,78 @@
+Version 1A:
+	Code: 4362
+	Sequence: Weird2
+		  Weird1
+		  Weird5
+		  Weird4
+		  Weird3
+		  Weird6
+	Wires: Green
+	       Yellow
+Version 1B:
+	Code: 7693
+	Sequence: Weird4A
+		  Weird2A
+		  Weird3A
+		  Weird1A
+		  Weird6A
+		  Weird5A
+	Wires: Green
+Version 1C:
+	Code: 278549
+	Sequence: Weird4A
+		  Weird4A
+		  Weird3A
+		  Weird6A
+		  Weird1A
+		  Weird2A
+	Wires: Red
+Version 1D:
+	Code: 57614
+	Sequence: Weird2D
+		  Weird6A
+		  Weird3A
+		  Weird6A
+		  Weird1D
+		  Weird2D
+	Wires: Red
+Version 1E:
+	Code: 2359867
+	Sequence: Weird4A
+		  Weird6A
+		  Weird2D
+		  Weird6A
+		  Weird1D
+		  Weird4A
+	Wires: Yellow
+Version 1F:
+	Code: 12
+	Sequence: Weird5A
+		  Weird3F
+		  Weird4A
+		  Weird3F
+		  Weird1F
+		  Weird4F
+	Wires: Yellow
+	       Black
+Version 1G:
+	Code: 29837
+	Sequence: Weird3G
+		  Weird3F
+		  Weird3G
+		  Weird3F
+		  Weird1F
+		  Weird1G
+	Wires: Yellow
+	       Black
+	       White
+Version 1H:
+	Code: 24357
+	Sequence: Weird3H
+		  Weird1G
+		  Weird1H
+		  Weird3G
+		  Weird2H
+		  Weird2G
+		  Weird1H
+	Wires: Yellow
+	       White

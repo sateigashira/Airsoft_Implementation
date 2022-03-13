@@ -1,0 +1,140 @@
+Sequence of images:
+	Are there two orange squares?
+	Yes: Ignore the grid in the next module and cut the first wire.
+		  Weird2D
+		  Weird2G
+  		  Weird3A
+		  Weird6A
+		  Weird1G
+		  Weird4H
+	Are all of the boxes in the grid white?
+		Yes: 
+		  Weird3H
+		  Weird1G
+		  Weird1H
+		  Weird3G
+		  Weird2H
+		  Weird2G
+		  Weird1H
+	Is there one square only that is green?
+	Yes: Is it the top left square?
+		Yes: 
+		  Weird2A
+		  Weird1A
+		  Weird5A
+		  Weird4A
+		  Weird3A
+		  Weird6A
+	Is there only one square that is black?
+	Yes: Is that square 2 inches away from the edge of the screen?
+		Yes:
+		Weird2H
+		Weird2A
+		Weird3A
+		Weird1G
+		Weird2F
+		Weird4A
+		
+	Are there 2 or more green squares?
+	Yes: Are they at least one square apart?
+		Yes:
+		  Weird4A
+		  Weird2A
+		  Weird3A
+		  Weird1A
+		  Weird6A
+		  Weird5A
+	Is there a green square?
+	Yes: Are there three?
+		Yes: 
+		  Weird1F
+		  Weird6A
+		  Weird2H
+		  Weird5A
+		  Weird3F
+		  Weird4H
+	Is there a purple square?
+	Yes: Are there two?
+	Yes: 
+		  Weird4A
+		  Weird4A
+		  Weird3A
+		  Weird6A
+		  Weird1A
+		  Weird2A
+	Is there a black square?
+	Yes: Is it in the right column of the grid?
+		Yes:
+		  Weird2D
+		  Weird6A
+		  Weird3A
+		  Weird6A
+		  Weird1D
+		  Weird2D
+	Is there a purple square?
+	Yes: Is there a black square in the las row and last column?
+		Yes:
+		  Weird4A
+		  Weird6A
+		  Weird2D
+		  Weird6A
+		  Weird1D
+		  Weird4A
+	Are there more purple squares than any other color?
+	Yes: Is there at least one orange square?
+		Yes:
+		  Weird5A
+		  Weird3F
+		  Weird4A
+		  Weird3F
+		  Weird1F
+		  Weird4F
+	Do two of the colors make green?
+		Yes:
+		  Weird3G
+		  Weird3F
+		  Weird3G
+		  Weird3F
+		  Weird1F
+		  Weird1G
+
+
+
+
+Wires: 
+	Is there an orange square next to a red square?
+		Yes:
+		Red
+	Are all the boxes white?
+		Yes:
+		Yellow
+	        White
+	Is there a blue box in the top left corner of the grid?
+	Yes: Is it in the top left corner?
+		Yes:
+		Green
+	        Yellow
+	Is there only 1 blue and 1 green square?
+	Yes: Are they next to eachother?
+		Yes:
+		Green
+	Is one of the squares orange?
+	Yes: Is the square above it blue?
+		Yes: 
+		Red
+	Is there a red and pink square at least 1 block away from eachother?
+		Yes:
+		Red
+	Is there a yellow square opposite a pink square?
+		Yes: 
+		Yellow
+	Is the addition of two of the colors equal to one of the other colors?
+		Yes:
+		Yellow
+	        Black
+	Is there a green square on a lower row than a red square?
+	Yes: Is there only one yellow square?
+		Yes:
+		Yellow
+	        Black
+	        White

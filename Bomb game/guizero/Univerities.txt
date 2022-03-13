@@ -1,0 +1,23 @@
+Sac state: No Sup required
+	P: *saved*
+	U: *saved*
+East:
+	P: Remmingotn290
+	U: fk
+Davis: No Sup required
+	P: See Berkeley
+	U:spetrues
+LA:6408216 No Sup required
+	P:
+	U:
+UCSD: X
+	P: Remmington290
+	U: remmington290
+Berkeley: X
+	P: Pass&Word121
+	U:remmington290@gmail.com
+San Jose: X
+	U:014329705
+	P: Remmington290
+SDSU: X
+824376508
